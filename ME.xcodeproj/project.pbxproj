@@ -12,7 +12,6 @@
 		0D4AAFEE2C762AC30051CB60 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D4AAFED2C762AC30051CB60 /* Assets.xcassets */; };
 		0D4AAFF12C762AC30051CB60 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D4AAFF02C762AC30051CB60 /* Preview Assets.xcassets */; };
 		0D4AAFF82C762AD60051CB60 /* Dylan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4AAFF72C762AD60051CB60 /* Dylan.swift */; };
-		0D4AAFFA2C762EB60051CB60 /* sigmaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4AAFF92C762EB60051CB60 /* sigmaView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,7 +21,6 @@
 		0D4AAFED2C762AC30051CB60 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0D4AAFF02C762AC30051CB60 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0D4AAFF72C762AD60051CB60 /* Dylan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dylan.swift; sourceTree = "<group>"; };
-		0D4AAFF92C762EB60051CB60 /* sigmaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sigmaView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +56,6 @@
 				0D4AAFE92C762AC20051CB60 /* MEApp.swift */,
 				0D4AAFEB2C762AC20051CB60 /* ContentView.swift */,
 				0D4AAFF72C762AD60051CB60 /* Dylan.swift */,
-				0D4AAFF92C762EB60051CB60 /* sigmaView.swift */,
 				0D4AAFED2C762AC30051CB60 /* Assets.xcassets */,
 				0D4AAFEF2C762AC30051CB60 /* Preview Content */,
 			);
@@ -145,7 +142,6 @@
 			files = (
 				0D4AAFEC2C762AC20051CB60 /* ContentView.swift in Sources */,
 				0D4AAFF82C762AD60051CB60 /* Dylan.swift in Sources */,
-				0D4AAFFA2C762EB60051CB60 /* sigmaView.swift in Sources */,
 				0D4AAFEA2C762AC20051CB60 /* MEApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
